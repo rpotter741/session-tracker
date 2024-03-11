@@ -12,7 +12,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Settlement Management Sheet",
+      title: "Session Tracker",
     }),
     new FaviconsWebpackPlugin("./src/logo.png"),
   ],
